@@ -1,0 +1,29 @@
+[project]
+name = "siren_common_utility"
+version = "0.1.0"
+description = "[Siren - Golden Hour] Supports azure cloud instanced such as azure service bus, ... and etc."
+authors = [
+    { name = "Siren-GoldenHour Team" },
+    { name = "Lee Dae Geon", email = "histigma01@gmail.com" },
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-servicebus==7.14.3",
+    "python-dotenv"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+    "python-dotenv"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
