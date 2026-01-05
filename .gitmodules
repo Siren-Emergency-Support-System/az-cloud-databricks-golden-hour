@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Siren-Emergency-Support-System/goldenhour-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Siren-Emergency-Support-System/goldenhour-backend.git
+[submodule "databricks_ml"]
+	path = databricks_ml
+	url = https://github.com/Siren-Emergency-Support-System/databricks_data_analysis.git

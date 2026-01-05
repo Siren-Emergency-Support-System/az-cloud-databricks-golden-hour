@@ -1,6 +1,6 @@
 # 골든 아워 - 실시간 응급 환자 지원 및 의료 빅데이터 분석 인사이트 플랫폼
 
-**실시간 응급 환자 지원을 위한 Azure Cloud 및 Databricks 기반 실시간 분산 시스템과 MIT LCP 의료 빅데이터 기반 MLOps가 구축된 플랫폼입니다.**
+**실시간 응급 환자 지원을 위한 Azure Cloud 및 Databricks 기반 실시간 분산 시스템과 MIT LCP 의료 빅데이터 분석 서비스**
 
 [![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Siren-Emergency-Support-System/projects/1)  [![GitHub Discussions](https://img.shields.io/badge/GitHub%20Discussions-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Siren-Emergency-Support-System/discussions)  [![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](https://histigma.atlassian.net/wiki/spaces/MDS/pages/294927)
 
@@ -8,12 +8,12 @@
 
 본 프로젝트는 클라우드 기반의 인프라 구현과 백엔드 구축으로 대규모 확장 가능한 IT 솔루션 아키텍처 제작을 위하여 구성되었습니다.
 
-| 팀명/프로젝트명 | Siren - 골든아워 플랫폼                                          |
-| :-------------- | :--------------------------------------------------------------- |
-| 기간            | 준비 기간: 시작일 전 2~4일`` 2025. 12. 12 ~ 2025. 12. 23. (12일) |
-| 인원            | **이대건, 조민기, 신동환, 김혁수, 강민영**                 |
-| 주제            | 신속한 응급 환자 이송 및 지원 플랫폼                             |
-| 기술            | 하단 `주요 기술` 항목 참조.                                    |
+| 팀명/프로젝트명 | Siren - 골든아워 플랫폼                                             |
+| :-------------- | :------------------------------------------------------------------ |
+| 기간            | 준비 기간: 시작일 전 2~4일<br />2025. 12. 12 ~ 2025. 12. 23. (12일) |
+| 인원            | 강민영 김혁수 신동환 이대건 조민기                                  |
+| 주제            | 신속한 응급 환자 이송 및 지원 플랫폼                                |
+| 기술            | 하단 `주요 기술` 항목 참조.                                       |
 
 ### 원천 데이터 및 API
 
