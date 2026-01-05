@@ -20,6 +20,7 @@ except ImportError:
     )
     from modules.az_service_bus import AzureServiceBusSenderController
 
+
 class AzureServiceBusConnectorInstance:
     """Azure Service Bus에 연결하고 토픽과 Subscription 작업을 수행한다."""
     CONN_RETRY = 3
